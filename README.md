@@ -23,3 +23,10 @@ How it works: Any note that has the lyric of "-" is deleted and it's parent note
 I made this one to clean up basically all tuning on a file -- you can even do vocal mode automation with a minor edit to the script, but again synth v API doesn't handle vocal modes well and so you're left with a bunch of empty automation tracks which I didn't really want. 
 Scope: Whole file
 How it works: Resets automation, voice params, and the note params on manual notes
+
+
+
+© Cerulean
+https://www.youtube.com/@CeruleanP
+https://soundcloud.com/cerulean12345
+
