@@ -27,6 +27,8 @@ How it works: Resets automation, voice params, and the note params on manual not
 
 
 © Cerulean
+
 https://www.youtube.com/@CeruleanP
+
 https://soundcloud.com/cerulean12345
 
