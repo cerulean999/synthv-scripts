@@ -2,7 +2,7 @@ function getClientInfo() {
     return {
       "name" : SV.T("Freeze Phonemes"),
       "author" : "CharlotteShark",
-      "category" : "SSS",
+      "category" : "cerulean-shark-scripts",
       "versionNumber" : 1,
       "minEditorVersion" : 65537
     };

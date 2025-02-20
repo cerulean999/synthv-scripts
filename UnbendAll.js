@@ -1,8 +1,8 @@
 function getClientInfo() {
     return {
-      "name" : SV.T("Unbend"),
+      "name" : SV.T("Unbend Everything"),
       "author" : "CharlotteShark",
-      "category" : "SSS",
+      "category" : "cerulean-shark-scripts",
       "versionNumber" : 1,
       "minEditorVersion" : 65537
     };

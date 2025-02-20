@@ -2,7 +2,7 @@ function getClientInfo() {
     return {
       "name" : SV.T("Untune"),
       "author" : "CharlotteShark",
-      "category" : "SSS",
+      "category" : "cerulean-shark-scripts",
       "versionNumber" : 1,
       "minEditorVersion" : 65537
     };

@@ -2,7 +2,7 @@ function getClientInfo() {
     return {
       "name" : SV.T("Reset Voice Params"),
       "author" : "CharlotteShark",
-      "category" : "SSS",
+      "category" : "cerulean-shark-scripts",
       "versionNumber" : 2,
       "minEditorVersion" : 65537
     };
