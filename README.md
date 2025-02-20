@@ -35,7 +35,7 @@ Same as above, but limited to a single group. I find it useful when making harmo
 
 Scope: Group (or track if you don't have groups)
 
-Howe it works: same as above
+How it works: same as above
 
 ## Untune
 I made this one to clean up basically all tuning on a file -- you can even do vocal mode automation with a minor edit to the script, but again synth v API doesn't handle vocal modes well and so you're left with a bunch of empty automation tracks which I didn't really want.
