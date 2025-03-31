@@ -17,11 +17,18 @@ Scope: Selection
 How it works: Adds a space to the end of all phonemes so they are frozen even if you enter new lyrics
 
 ## Reset Voice Params
-This one I use when I'm auditioning different voices or covering a song from a pre-tuned SVP and just want a clean slate -- unfortunately Synth V doesn't have an easy way to do this for the vocal modes so it's only for the basic parameters.
+This one I use when I'm auditioning different voices or covering a song from a pre-tuned SVP and just want a clean slate -- I recently learned that the reset button appears so this one is obsolete
 
 Scope: Group (or track if you don't have groups)
 
 How it works: Sets all voice params to 0
+
+## Scale Automation Curves
+In Synth V2 the vocal modes and voice params can be a lot stronger. If I'm working on a file originally used in SV1 I usually want to keep my automation on say "tension" but scale it down. I also added in every existing vocal mode I could find so I could use it easily for that too. 
+
+Scope: Track or Group (selection)
+
+How it works: Selects all automation points and multiplies them by the selected factor (0.1 - 2.0)
 
 ## Unbend All
 This I made for a friend to reset tuning that uses note bends instead of pitch bends.
